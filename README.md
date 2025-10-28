@@ -1,6 +1,7 @@
 Swansea based artist, C4 incomplete SCI.
+
 [![Pedro Paints - Quadriplegic artist introduction](https://img.youtube.com/vi/sYPz9S7p2Fs/default.jpg)](https://www.youtube.com/watch?v=sYPz9S7p2Fs)
-<video src="[path/to/video.mp4](https://www.youtube.com/watch?v=sYPz9S7p2Fs)" width="320" height="240" controls></video>
+<video src="https://www.youtube.com/watch?v=sYPz9S7p2Fs" width="320" height="240" controls>https://img.youtube.com/vi/sYPz9S7p2Fs/default.jpg</video>
 
 ## Social media
 [Pedro Paints - Quadriplegic artist introduction](https://www.youtube.com/watch?v=sYPz9S7p2Fs)
