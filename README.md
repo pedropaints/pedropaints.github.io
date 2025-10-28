@@ -1,4 +1,4 @@
-[A short video introduction](https://www.youtube.com/watch?v=sYPz9S7p2Fs)
+[A short video about me](https://www.youtube.com/watch?v=sYPz9S7p2Fs)
 
 ---
 
