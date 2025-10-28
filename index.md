@@ -6,6 +6,4 @@
 
 ---
 
-[Find me on Instagram](https://www.instagram.com/pedropaints/)
-
-[Follow me on YouTube](https://www.youtube.com/@peterumbleart)
+[Instagram](https://www.instagram.com/pedropaints/) | [Facebook](https://www.instagram.com/pedropaints/) | [YouTube](https://www.youtube.com/@peterumbleart)
