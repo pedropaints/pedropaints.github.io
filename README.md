@@ -1,5 +1,3 @@
-Swansea based artist, C4 incomplete SCI.
-
 [![Pedro Paints - Quadriplegic artist introduction](https://img.youtube.com/vi/sYPz9S7p2Fs/default.jpg)](https://www.youtube.com/watch?v=sYPz9S7p2Fs)
 
 ## Social media
