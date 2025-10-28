@@ -1,5 +1,6 @@
-# Artwork by Pete Rumble
-Swansea based artist, C4 incomplete SCI.
+## Swansea based artist, C4 incomplete SCI.
+
+## Find me on social media
 [Pedro Paints - Quadriplegic artist introduction](https://www.youtube.com/watch?v=sYPz9S7p2Fs)
 
 [instagram.com/pedropaints/](https://www.instagram.com/pedropaints/)
@@ -11,4 +12,7 @@ Swansea based artist, C4 incomplete SCI.
 Youtube test
 [![Watch the video](https://img.youtube.com/vi/sYPz9S7p2Fs/default.jpg)](https://www.youtube.com/watch?v=sYPz9S7p2Fs)
 
+---
+
+## My work
 ![My work](/images/insta_wall.png "My work")
