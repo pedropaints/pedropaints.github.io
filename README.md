@@ -7,7 +7,7 @@
 
 [instagram.com/pedropaints/](https://www.instagram.com/pedropaints/)
 
-[www.youtube.com/@peterumbleart/](https://www.youtube.com/@peterumbleart)
+[youtube.com/@peterumbleart/](https://www.youtube.com/@peterumbleart)
 
 [My story](https://m.youtube.com/watch?v=NTG_d1NrPCs)
 
