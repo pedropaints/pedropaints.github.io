@@ -1,5 +1,7 @@
 [A short video introduction](https://www.youtube.com/watch?v=sYPz9S7p2Fs)
 
+---
+
 ![My work](/images/insta_wall.png "My work")
 
 ---
