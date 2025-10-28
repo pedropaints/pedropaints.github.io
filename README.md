@@ -5,7 +5,6 @@ Swansea based artist, C4 incomplete SCI.
 
 ---
 
-## My work
 ![My work](/images/insta_wall.png "My work")
 
 ---
