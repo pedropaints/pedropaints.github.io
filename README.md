@@ -1,14 +1,10 @@
-## Artwork by Pete Rumble
+## Pete Rumble Artist
 Swansea based artist, C4 incomplete SCI.
 
 [Interview](https://www.youtube.com/watch?v=sYPz9S7p2Fs)
-
 ---
-### My work
+## My work
 ![My work](/images/insta_wall.png "My work")
-
 ---
-
 [Find me on Instagram](https://www.instagram.com/pedropaints/)
-
 [Follow me on YouTube](https://www.youtube.com/@peterumbleart)
