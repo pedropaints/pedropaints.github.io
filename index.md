@@ -2,4 +2,5 @@
 
 ---
 
-🎨 ![My work](/images/insta_wall.png "My work")
+🎨 ## My work
+![My work](/images/insta_wall.png "My work")
