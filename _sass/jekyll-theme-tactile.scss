@@ -324,6 +324,13 @@ footer {
   justify-content: center;
   align-items: center; /* optional: centers vertically */
 }
+.footer-icons {
+  display: flex;
+  justify-content: space-between; /* equal space between icons */
+  align-items: center; /* optional: vertical alignment */
+  width: 200px; /* adjust width to control spacing */
+}
+
 
 footer a {
   color: #666;
