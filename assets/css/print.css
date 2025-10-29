@@ -208,6 +208,9 @@ footer {
   margin-top: 40px;
   font-size: 13px;
   color: #aaa;
+  display: flex;
+  justify-content: center;
+  align-items: center; /* optional: centers vertically */
 }
 
 footer a {
