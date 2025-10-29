@@ -1,10 +1,2 @@
-🎥 [Click here for a short video about me](https://www.youtube.com/watch?v=sYPz9S7p2Fs)
-
----
-
-🎨 My work
-![My work](/images/insta_wall.png "My work")
-
----
-
-[Click here for mugs](/mugs.md)
+🎨 Gallery
+![Gallery](/images/insta_wall.png "Gallery")
