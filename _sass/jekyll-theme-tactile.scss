@@ -324,13 +324,20 @@ footer {
   justify-content: center;
   align-items: center; /* optional: centers vertically */
 }
+
+// .footer-icons {
+//   display: flex;
+//   justify-content: space-between; /* equal space between icons */
+//   align-items: center; /* optional: vertical alignment */
+//   width: 200px; /* adjust width to control spacing */
+// }
+
 .footer-icons {
   display: flex;
-  justify-content: space-between; /* equal space between icons */
-  align-items: center; /* optional: vertical alignment */
-  width: 200px; /* adjust width to control spacing */
+  justify-content: center;        /* centers the icon group in the footer */
+  align-items: center;
+  gap: 40px;                      /* increases the spacing between icons */
 }
-
 
 footer a {
   color: #666;
