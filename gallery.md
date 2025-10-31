@@ -1,6 +1,3 @@
-| ![Mumbles Head] (images/mumhead.jpg) | ![Mumbles Head] (images/mumhead.jpg) | ![Mumbles Head] (images/mumhead.jpg) |
-| ![Mumbles Head] (images/mumhead.jpg) | ![Mumbles Head] (images/mumhead.jpg) | ![Mumbles Head] (images/mumhead.jpg) |
-| ![Mumbles Head] (images/mumhead.jpg) | ![Mumbles Head] (images/mumhead.jpg) | ![Mumbles Head] (images/mumhead.jpg) |
-| ![Mumbles Head] (images/mumhead.jpg) | ![Mumbles Head] (images/mumhead.jpg) | ![Mumbles Head] (images/mumhead.jpg) |
-| ![Mumbles Head] (images/mumhead.jpg) | ![Mumbles Head] (images/mumhead.jpg) | ![Mumbles Head] (images/mumhead.jpg) |
-
+mumbles_bay_pastiche.png
+mumbles_head_sunrise.png
+smoking_ostrich.png
