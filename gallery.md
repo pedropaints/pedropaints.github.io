@@ -5,4 +5,6 @@
 |![Autumn Storm](images/gallery/prints/autumn_storm.png)|
 |![Birch Trees](images/gallery/prints/birch_trees.png)|
 |![Lancaster Bomber](images/gallery/prints/lancaster_bomber.png)|
+|![Wimbledon](images/gallery/prints/wimbledonpng)|
+|![m](images/gallery/prints/m.png)|
 
