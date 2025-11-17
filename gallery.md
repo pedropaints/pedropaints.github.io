@@ -2,4 +2,5 @@
 |![Mumbles_Head_sunrise](images/gallery/mumbles_head_sunrise.png)|
 |![Smoking_Ostrich](images/gallery/smoking_ostrich.png)|
 |![Helvetia Rhossili](images/gallery/helvetia_rhossili.png)|
+|![Autumn Storm](images/gallery/autumn_storm.png)|
 
