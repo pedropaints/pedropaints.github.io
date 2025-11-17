@@ -4,4 +4,5 @@
 |![Helvetia Rhossili](images/gallery/prints/helvetia_rhossili.png)|
 |![Autumn Storm](images/gallery/prints/autumn_storm.png)|
 |![Birch Trees](images/gallery/prints/birch_trees.png)|
+|![Lancaster Bomber](images/gallery/prints/lancaster_bomber.png)|
 
