@@ -1,4 +1,4 @@
-All of the images pictured are available as high quality prints. Please get in touch to order prints or for commission enquiries.
+All of the images pictured are available as high quality prints. Please get in touch to order prints or for commission enquiries. Email peterumbleart at gmail.com
 
 |![Helvetia Rhossili](images/gallery/prints/helvetia_rhossili.png)|
 |![Wimbledon](images/gallery/prints/wimbledon.png)|
