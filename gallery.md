@@ -1,4 +1,5 @@
-All of the images here are available as high quality prints. Please get in touch to order prints or for commission enquiries.
+All of the images pictured are available as high quality prints. Please get in touch to order prints or for commission enquiries.
+
 |![Helvetia Rhossili](images/gallery/prints/helvetia_rhossili.png)|
 |![Wimbledon](images/gallery/prints/wimbledon.png)|
 |![Mumbles_Head_sunrise](images/gallery/prints/mumbles_head_sunrise.png)|
